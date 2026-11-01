@@ -1,3 +1,0 @@
-Server A,87,100
-Server B,140,100
-Server C,50,100
